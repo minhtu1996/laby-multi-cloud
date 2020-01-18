@@ -1,0 +1,21 @@
+{
+    "name": "kynm/laby-multi-cloud",
+    "description": "the first composer package",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pham Minh Tu",
+            "email": "minhtu.bk14@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "minhtu\\SayHello\\": "src/"
+        }
+    }
+}
