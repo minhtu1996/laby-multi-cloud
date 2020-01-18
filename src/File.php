@@ -1,6 +1,6 @@
 <?php
-namespace minhtu\SayHello;
-class SayHello
+namespace minhtu\Cloud;
+class File
 {
     public static function world()
     {

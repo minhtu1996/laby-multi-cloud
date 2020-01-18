@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "minhtu\\SayHello\\": "src/"
+            "minhtu\\Cloud\\": "src/"
         }
     }
 }
